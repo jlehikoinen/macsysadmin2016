@@ -1,5 +1,10 @@
 # MacSysAdmin 2016 Cheat Sheets
 
+## TODO
+
+* Setlist
+* Rider!
+
 ## BTO - Taking Care of Business
 
 ```
