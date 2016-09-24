@@ -2,8 +2,8 @@
 
 ## TODO
 
-* Setlist
-* Rider!
+* **Setlist**
+* **Rider!**
 
 ## BTO - Taking Care of Business
 
