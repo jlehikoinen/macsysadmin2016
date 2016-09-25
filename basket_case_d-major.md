@@ -12,7 +12,7 @@ Neurotic to the bone, no doubt about it		G  D  A
 Sometimes I give myself the creeps			G  A  D
 Sometimes my mind plays tricks on me		G  A  D
 It all keeps adding up						G  A
-I think I'm cracking up						D  A/C#  Bm
+I think I'm cracking up						D  C  Bm
 Am I just paranoid? 						G  A
 Or am I just stoned?
 
