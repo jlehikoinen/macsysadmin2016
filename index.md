@@ -5,6 +5,35 @@
 * **Setlist**
 * **Rider!**
 
+## Prince (Radiohead): Creep
+
+* Key: G
+* Time signature 4/4, maybe 80 bpm?
+* Chord progression: G - B - C - cmi
+* Chords in double time compared to Radiohead Original
+* Elongated intro so we can introduce ourselves
+
+Epic guitar solo after second chorus
+
+## Coldplay: Viva la Vida
+
+* Key: D
+* Chord progression: **G** - A - D - bmi (f#mi somewhere)
+* Ac guitar intro emulates the keys
+
+## Last Nite - The Strokes
+
+## Basket Case - Green Day
+
+* Vox: Miikkali
+* Bass: Robin
+
+## Let's stick together - Brian Ferry version
+
+* Key: G (G - C - D)
+* Solo 1 after second verse: sax
+* Solo 2 after third verse: sax & harmonica alternating
+
 ## BTO - Taking Care of Business
 
 ```
