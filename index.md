@@ -21,33 +21,22 @@ Epic guitar solo after second chorus
 * Chord progression: **G** - A - D - bmi (f#mi somewhere)
 * Ac guitar intro emulates the keys
 
-## Last Nite - The Strokes
+## The Strokes: Last Nite
 
-## Basket Case - Green Day
+## Green Day: Basket Case
 
 * Vox: Miikkali
 * Bass: Robin
 
-## Let's stick together - Brian Ferry version
+## Pointer Sisters: I'm so excited
+
+## Brian Ferry: Let's stick together
 
 * Key: G (G - C - D)
 * Solo 1 after second verse: sax
 * Solo 2 after third verse: sax & harmonica alternating
 
-## BTO - Taking Care of Business
-
-```
-Original key: C
-Time signature: 4/4
-
-Intro & verse & chorus & outro:
-||: C7 | Bb7 | F7 | C7 :||
-
-Bridge:
-||: C -> F | Eb -> Bb :||
-```
-
-## ABBA - Does Your Mother Know
+## ABBA: Does Your Mother Know
 
 ```
 Original key: G
@@ -84,3 +73,29 @@ Octave riff once
 
 End: ?
 ```
+## Dolly Parton: 9 to 5
+
+## BTO: Taking Care of Business
+
+```
+Original key: C
+Time signature: 4/4
+
+Intro & verse & chorus & outro:
+||: C7 | Bb7 | F7 | C7 :||
+
+Bridge:
+||: C -> F | Eb -> Bb :||
+```
+
+## Semisonic: Closing times
+
+**Encores**
+
+## AC/DC: It's a long way to the top
+
+* Features: kazoos
+
+## Robbie Williams: Let me entertain you
+
+## Harry Belafonte: Banana boat song
