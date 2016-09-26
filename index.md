@@ -13,7 +13,14 @@
 * Chords in double time compared to Radiohead Original
 * Elongated intro so we can introduce ourselves
 
-Epic guitar solo after second chorus
+_...tonignt we're going to play melancholic songs for system administrators,
+songs about work, the lack of appreciation, the lack of sex, just the whole
+social awkwardness scene that we can all relate to..._
+
+_...seriously though, there are a couple of happy songs in the set, but this
+one is not it_
+
+**Epic guitar solo after second chorus**
 
 ## Coldplay: Viva la Vida
 
@@ -27,6 +34,8 @@ Epic guitar solo after second chorus
 
 * Vox: Miikkali
 * Bass: Robin
+
+**This is where we start to play metal music** (in come the horns!)
 
 ## Pointer Sisters: I'm so excited
 
