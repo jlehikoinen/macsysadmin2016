@@ -30,6 +30,14 @@ one is not it_
 
 ## The Strokes: Last Nite
 
+Transposed to G
+
+**Intro - guitar 1 [G in two octaves], guitar 2 [G+C, G+D], bass**
+
+G-ami7-D-bmi7-Ami
+
+then: C-D-C-D...
+
 ## Green Day: Basket Case
 
 * Vox: Miikkali
@@ -41,9 +49,46 @@ one is not it_
 
 ## Brian Ferry: Let's stick together
 
+* Vox: Miikkali
 * Key: G (G - C - D)
 * Solo 1 after second verse: sax
 * Solo 2 after third verse: sax & harmonica alternating
+
+```
+And now the [G] marriage vow is very sacred
+The man has put us together now
+We ought to make it stick to- [C] -gether
+Come on, come on, let's stick to- [G] -gether [Gsus] [G]
+You know we [D] made a vow not to [D7] leave one another [G] never
+
+But now you never miss your water till your well runs dry
+Come on now baby give our love a try
+And stick to- [C] -gether
+Come on, come on, let's stick to- [G] -gether
+You know we [D] made a vow not to [D7] leave one another [G] never
+```
+
+**Solo 1 - sax**
+
+```
+Well if you're [G] stuck for a while consider our child
+How can it be happy without its ma and pa
+Let's stick together
+Come on, come on, let's stick together
+You know we made a vow not to leave one another ever
+```
+
+**Solo 2 - sax & harmonica**
+
+Horns continue after solo
+
+```
+Well if you're stuck for a while consider our child
+How can it be happy without its ma and pa
+Let's stick together
+Come on, come on, let's stick together
+You know we made a vow not to leave one another never
+```
 
 ## ABBA: Does Your Mother Know
 
