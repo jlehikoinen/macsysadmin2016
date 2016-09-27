@@ -82,6 +82,7 @@ Octave riff once
 
 End: ?
 ```
+
 ## Dolly Parton: 9 to 5
 
 ## BTO: Taking Care of Business
@@ -97,7 +98,71 @@ Bridge:
 ||: C -> F | Eb -> Bb :||
 ```
 
-## Semisonic: Closing times
+## Semisonic: Closing time
+
+_Last song, thank you for letting us play rock stars for one night_
+
+_Thank you for showing us your technical support_
+
+During the last few choruses and the solo, brass joins the riff with the
+electric guitar.
+
+```
+Closing time
+Open all the doors and let you out into the world
+Closing time
+Turn the lights up over every boy and every girl.
+Closing time
+One last call for alcohol so finish your whiskey or beer.
+Closing time
+You don't have to go home but you can't stay here.
+
+I know who I want to take me home.
+I know who I want to take me home.
+I know who I want to take me home.
+Take me home
+
+Closing time
+Time for you to go out to the places you will be from.
+Closing time
+This room won't be open 'til your brothers or you sisters come.
+So gather up your jackets, and move it to the exits
+I hope you have found a friend.
+
+Closing time
+Every new beginning comes from some other beginning's end.
+
+Yeah, I know who I want to take me home.
+I know who I want to take me home.
+I know who I want to take me home.
+Take me home
+```
+
+**Solo here**, right?
+
+```
+Closing time
+Time for you to go out to the places you will be from
+```
+
+**Break to take in some applause**
+
+```
+I know who I want to take me home.
+I know who I want to take me home.
+I know who I want to take me home.
+Take me home
+
+I know who I want to take me home.
+I know who I want to take me home.
+I know who I want to take me home.
+Take me home
+
+Closing time
+Every new beginning comes from some other beginning's end
+```
+
+---
 
 **Encores**
 
