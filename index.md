@@ -641,7 +641,7 @@ It's a long way, such a long way
 
 ## Robbie Williams: Let me entertain you
 
-* Transposed key: D
+* Transposed key: C
 
 ```
 Hell is gone and heaven's here
