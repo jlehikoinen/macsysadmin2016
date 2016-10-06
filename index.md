@@ -34,7 +34,7 @@ You're so very/fuckin' [C] special [cmi]
 
 ```
 
-**That brutal guitar thing**p
+**That brutal guitar thing**
 
 ```
 But I'm a creep, I'm a weirdo
@@ -48,7 +48,7 @@ I wanna a perfect soul
 
 I want you to notice (you want me to notice)
 When I'm not around (when you're not around)
-You're so fuckin' special (you wish  you were special)
+You're so fuckin' special (you wish you were special)
 I wish I was special (i think you are special)
 
 But I'm a creep, I'm a weirdo
@@ -84,12 +84,20 @@ I don't belong here
 * Chord progression: **G** - A - D - bmi (f#mi somewhere)
 * Ac guitar intro emulates the keys
 
+In: Ac gtr + bass drum
+
 ```
 I used to [G] rule the [A] world
 Seas would [D] rise when I gave the [bmi] word
 Now in the morning I [G] sleep [A] alone
 Sweep the [D] streets I used to [bmi] own
+```
 
+Add:
+* electric guitar, slow violin thing
+* bass (quiet, octave up on the neck)
+
+```
 I used to roll the dice
 Feel the fear in my enemy's eyes
 Listened as the crowd would sing
@@ -98,7 +106,11 @@ One minute I held the key
 Next the walls were closed on me
 And I discovered that my castles stand
 Upon pillars of salt and pillars of sand
+```
 
+Bass full on
+
+```
 I hear Jerusalem bells a-ringing
 Roman cavalry choirs are singing
 Be my mirror, my sword and shield
@@ -107,7 +119,13 @@ For some reason I can't explain
 Once you'd gone there was never
 Never an honest word
 And that was when I ruled the world
+```
 
+**Instrumental bit here**
+
+Bass quieter/octave up during next verse
+
+```
 It was a wicked and wild wind
 Blew down the doors to let me in
 Shattered windows and the sound of drums
@@ -116,7 +134,11 @@ Revolutionaries wait
 For my head on a silver plate
 Just a puppet on a lonely string
 Oh who would ever want to be king?
+```
 
+Bass full on
+
+```
 I hear Jerusalem bells a-ringing
 Roman cavalry choirs are singing
 Be my mirror, my sword and shield
@@ -125,7 +147,12 @@ For some reason I can't explain
 I know St Peter won't call my name
 Never an honest word
 But that was when I ruled the world
+``
 
+**Instrumental bridge**
+
+Public participation:
+``
 Oh oh oh oh ohh oh [x5]
 
 Hear Jerusalem bells a-ringing
@@ -138,7 +165,7 @@ Never an honest word
 But that was when I ruled the world
 ```
 
-Where's the solo?
+If it seems appropriate, do the anthemic oh-oh-oh-ooooo thing again
 
 ## The Strokes: Last Nite
 
@@ -201,6 +228,8 @@ Insert solo and chord progression
 * Vox: Miikkali
 * Bass: Robin
 
+In: El guitar
+
 ```
 Do you have the time to listen to me whine
 About nothing and everything all at once
@@ -208,11 +237,19 @@ I am one of those
 Melodramatic fools
 Neurotic to the bone
 No doubt about it
+```
 
+Add: Drums (carefully)
+
+```
 Sometimes I give myself the creeps
 Sometimes my mind plays tricks on me
 It all keeps adding up
+```
+**Band full on**
+```
 I think I'm cracking up
+
 Am I just paranoid?
 Or am I just stoned
 
@@ -229,10 +266,17 @@ It all keeps adding up
 I think I'm cracking up
 Am I just paranoid?
 A ya-ya-ya
+```
 
+**Instrumental bridgey bit**
+```
 Grasping to control
 So I better hold on
+```
 
+**Instrumental/solo bit here**
+
+```
 Sometimes I give myself the creeps
 Sometimes my mind plays tricks on me
 It all keeps adding up
@@ -289,10 +333,11 @@ You know we made a vow not to leave one another never
 
 ## ABBA: Does Your Mother Know
 
-```
-Original key: G
-Time signature: 4/4
+* Original key: G
+* Time signature: 4/4
+* Vox: Robin / Julia
 
+```
 Intro:
 Synth bass riff in G (8 bars)
 Guitar riff:
@@ -323,7 +368,10 @@ Octave riff once
 3. chorus (pt. 1) repeat x times
 
 End: ?
+```
 
+**Robin**
+```
 You're so hot, teasing me
 So you're blue but I can't take a chance on a chick like you
 That's something I couldn't do
@@ -338,15 +386,18 @@ And I can chat with you baby
 Flirt a little maybe
 Does your mother know that you're out?
 
-Take it easy (take it easy)
+Take it easy (*Julia:* take it easy)
 Better slow down girl
 That's no way to go
 Does your mother know?
-Take it easy (take it easy)
+Take it easy (*Julia:* take it easy)
 Try to cool it girl
 Take it nice and slow
 Does your mother know?
+```
 
+**Julia**
+```
 I can see what you want
 But you seem pretty young to be searching for that kind of fun
 So maybe I'm not the one
@@ -361,15 +412,18 @@ And I can chat with you baby
 Flirt a little maybe
 Does your mother know that you're out?
 
-Take it easy (take it easy)
+Take it easy (*Robin:* take it easy)
 Better slow down girl
 That's no way to go
 Does your mother know?
-Take it easy (take it easy)
+Take it easy (*Robin:* take it easy)
 Try to cool it girl
 Take it nice and slow
 Does your mother know?
+```
 
+**Both**
+```
 Well I can dance with you honey
 If you think it's funny
 Does your mother know that you're out?
@@ -380,7 +434,57 @@ Does your mother know that you're out?
 
 ## Dolly Parton: 9 to 5
 
-Robin: Triangle :D
+* Robin: Triangle :D
+
+```
+Tumble outta bed and I stumble to the kitchen
+Pour myself a cup of ambition
+Yawn and stretch and try to come to life
+Jump in the shower and the blood starts pumpin'
+Out on the street the traffic starts jumpin'
+With folks like me on the job from 9 to 5
+
+Workin' 9 to 5, what a way to make a livin'
+Barely gettin' by, it's all takin' and no givin'
+They just use your mind and they never give you credit
+It's enough to drive you crazy if you let it
+9 to 5, for service and devotion
+You would think that I would deserve a fat promotion
+Want to move ahead but the boss won't seem to let me
+I swear sometimes that man is out to get me!
+```
+
+Short Instrumental
+
+```
+They let you dream just to watch 'em shatter
+You're just a step on the boss-man's ladder
+But you got dreams he'll never take away
+You're in the same boat with a lotta your friends
+Waitin' for the day your ship'll come in
+An' the tide's gonna turn and it's all gonna roll your way
+
+Workin' 9 to 5, what a way to make a livin'
+Barely gettin' by, it's all takin' and no givin'
+They just use your mind and you never get the credit
+It's enough to drive you crazy if you let it
+9 to 5, yeah they got you where they want you
+There's a better life, and you dream about it, don't you?
+It's a rich man's game no matter what they call it
+And you spend your life puttin' money in his wallet
+
+9 to 5, whoa what a way to make a livin'
+Barely gettin' by, it's all takin' and no givin'
+They just use your mind and they never give you credit
+It's enough to drive you crazy if you let it
+
+9 to 5, yeah they got you where they want you
+There's a better life, and you dream about it, don't you?
+It's a rich man's game no matter what they call it
+And you spend your life puttin' money in his wallet
+
+9 to 5, working 9 to 5
+```
 
 ## Pointer Sisters: I'm so excited
 
