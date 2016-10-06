@@ -593,6 +593,11 @@ Every new beginning comes from some other beginning's end
 * Features: kazoos
 * All hands on deck!
 
+In:
+* Guitars
+* Add bass drums
+* Add bass, second guitar, all drums
+
 ```
 Ridin' down the highway
 Goin' to a show
@@ -609,10 +614,20 @@ It's harder than it looks
 
 It's a long way to the top if you want to rock 'n' roll
 It's a long way to the top if you want to rock 'n' roll
+
 If you think it's easy doin' one night stands
 Try playin' in a rock roll band
 It's a long way to the top if you want to rock 'n' roll
+```
+#### Solos
 
+**Kazoo choir**
+
+**Guitar and kazoo alternating**
+
+Kazoo drones continue under vocals, fade after half verse
+
+```
 Hotel motel
 Make you want to cry
 Lady do the hard sell
@@ -628,6 +643,7 @@ Playin' in a band
 
 It's a long way to the top if you want to rock 'n' roll
 It's a long way to the top if you want to rock 'n' roll
+
 If you want to be a star of stage and screen
 Look out it's rough and mean
 
@@ -638,6 +654,7 @@ It's a long way, (you should've told me)
 It's a long way, such a long way
 ```
 
+**Kazoo three tone thing** (repeat ad nauseam)
 
 ## Robbie Williams: Let me entertain you
 
